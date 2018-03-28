@@ -1,2 +1,3 @@
 # MNIST_Expert
-# NBA_ML_Predictions
+
+## Working through an example from "Hands-on Machine Learning with Scikit-Learn & TensorFlow"
